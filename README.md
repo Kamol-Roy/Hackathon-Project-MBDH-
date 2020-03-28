@@ -1,0 +1,2 @@
+# Hackathon-Project-MBDH-
+The project won the first Prize at Transportation Data Challenge organized by NSF Midwest Big Data Hub. This project was a part of a day long competition held in Nebraska Transportation Center of University of Nebraska. The project involves developing machine learning models to predict fatal bicycle crash using capital city bikeshare data with other environmental and climatic data.
